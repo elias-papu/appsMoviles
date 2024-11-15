@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23231" systemVersion="23G93" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Persona" representedClassName="Persona" syncable="YES" codeGenerationType="class">
+        <attribute name="apMat" optional="YES" attributeType="String"/>
+        <attribute name="apPat" optional="YES" attributeType="String"/>
+        <attribute name="nacimiento" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="nombre" optional="YES" attributeType="String"/>
+        <attribute name="sexo" optional="YES" attributeType="String"/>
+    </entity>
+</model>

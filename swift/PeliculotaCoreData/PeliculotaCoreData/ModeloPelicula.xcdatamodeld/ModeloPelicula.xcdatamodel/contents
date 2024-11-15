@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23231" systemVersion="23G93" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Pelicula" representedClassName="Pelicula" syncable="YES" codeGenerationType="class">
+        <attribute name="clasificacion" optional="YES" attributeType="String"/>
+        <attribute name="director" optional="YES" attributeType="String"/>
+        <attribute name="duracion" optional="YES" attributeType="String"/>
+        <attribute name="fechaLanzamiento" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="genero" optional="YES" attributeType="String"/>
+        <attribute name="titulo" optional="YES" attributeType="String"/>
+    </entity>
+</model>

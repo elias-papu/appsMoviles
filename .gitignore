@@ -1,0 +1,8 @@
+# Ignore all files and folders inside swift/
+miniPractica/*
+miniPractica/
+miniPracticas/*
+sqlite/*
+
+swift/proyecto/
+

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ecuelitaTiroteo</string>
+    <string-array name="family">
+        <item>Seleccione una opción</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
